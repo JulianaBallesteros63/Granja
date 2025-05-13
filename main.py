@@ -1,3 +1,4 @@
+
 from granja import Granja
 from cultivo import Cultivo
 from animal import Animal
@@ -80,4 +81,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# apartir de las cuatro clases anteriores el inventario de la granja se ejecuta acá en main , este es el cambio de jhon jairo 
+
 
